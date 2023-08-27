@@ -4,7 +4,7 @@ const Navbar = () => {
 
 
     return (
-        <div className=" flex items-center justify-around ">
+        <div className=" flex flex-col items-center sm:flex-row xs:flex-row md:flex-row">
 
             <div className="w-[400px] ">
                 <img cla src="https://i.imgur.com/W6QaLVt.png" alt="monkeyLogo" />
