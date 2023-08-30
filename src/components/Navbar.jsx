@@ -11,15 +11,15 @@ const Navbar = () => {
             </div>
 
             <ul className="font-bold flex text-3xl p-2 ">
-                <li className="hover:bg-gradient-to-r from-fuchsia-200 to-cyan-200 text-gray-800 font-bold py-2 px-4 rounded-l">
+                <li className="hover:bg-blue-400 hover:bg-opacity-60 text-gray-800 font-bold py-2 px-4 rounded-l">
                     Qué hacemos
                 </li>
 
-                <li className="hover:bg-gradient-to-r from-fuchsia-200 to-cyan-200 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 ">
+                <li className="hover:bg-yellow-400 hover:bg-opacity-60 text-gray-800 font-bold py-2 px-4 ">
                     Nuestro trabajo
                 </li>
 
-                <li className=" hover:bg-gradient-to-r from-fuchsia-200 to-cyan-200hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-r">
+                <li className=" hover:bg-pink-400 hover:bg-opacity-60 text-gray-800 font-bold py-2 px-4 rounded-r">
                     Contacto
                 </li>
 

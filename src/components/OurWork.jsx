@@ -3,11 +3,12 @@ import TitleSections from "./TitleSections"
 const OurWork = () => {
 
 
-    return(
-        <div>
-            <TitleSections titleSections="Nuestro Trabajo"/>
-        </div>
+    return (
+        <>
+            <TitleSections titleSection="Nuestro Trabajo" />
+            
+        </>
     )
 }
 
-export default OurWork;
+export default OurWork

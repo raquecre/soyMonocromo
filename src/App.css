@@ -2,9 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-
-.square {
-    width: 50%;
-    padding-bottom: 50%;
-     
-  }
