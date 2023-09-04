@@ -5,7 +5,7 @@ const OurWork = () => {
 
     return (
         <>
-            <TitleSections titleSection="Nuestro Trabajo" />
+            
             
         </>
     )

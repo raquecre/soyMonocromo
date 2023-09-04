@@ -3,7 +3,7 @@ const TitleSections = props =>{
     const {titleSection} = props;
 
     return(
-        <div className="font-bold text-5xl m-10  flex justify-center">
+        <div data-aos="fade-down" className="font-bold text-7xl m-10  flex justify-center">
             {titleSection}
         </div>
     )
